@@ -15,9 +15,11 @@ nav li{
 
 }
 
-.home img {
-    margin:0;
-    height: 300px
+.HOME img{
+    margin: 0px;
+    height: 250px;
+    width:100%;
+
 
 }
 
