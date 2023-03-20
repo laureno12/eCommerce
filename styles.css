@@ -1,4 +1,8 @@
-header{
+.header{
+    background-color: white;
+    position: relative;
+    padding: 0.5rem;
+    
 
 }
 
@@ -60,5 +64,11 @@ nav li{
 }
 
 footer{
+    text-align: center;
+    background-color: RGB(191,118,49);
+    padding: 1rem;
+    width: 100%;
+    left:0;
+    bottom:0;
 
 }
