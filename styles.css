@@ -1,16 +1,12 @@
+header{
+
+}
+
 body{
     font-family: "Segoe UI";
     background-color: white;
     color: black;
     margin:0;
-}
-
-footer{
-
-}
-    
-header{
-
 }
 
 nav li{
@@ -25,6 +21,27 @@ nav li{
 
 }
 
+.ABOUT {
+    font-style: bold;
+    font-size: 30px;
+
+}
+.grid-container {
+    display:grid;
+    
+}
+
+.grid-item{
+    font-size: 15px;
+
+}
+
+.PRODUCT {
+    font-style: bold;
+    font-size: 30px;
+
+}
+
 .flex-container {
     display: flex;
     flex-wrap: wrap;
@@ -33,9 +50,13 @@ nav li{
 
 .product-card{
 
-    height: 10rem;
-    width: 10rem;
-    background-color: blanchedalmond;
+    height: 11rem;
+    width: 11rem;
+    background-color: white;
     margin: 1rem 1rem;
+
+}
+
+footer{
 
 }
